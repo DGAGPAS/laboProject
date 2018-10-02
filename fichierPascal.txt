@@ -1,0 +1,8 @@
+Ceci est mon fichier texte.
+Il contient des phrases et une blague.
+C'est l'histoire de Paf le chien.
+C'est l'histoire d'un chien qui attend sur le bord de la route pour traverser.
+Il attend mais il est tanné.
+Il décide alors de traverser mais une auto s'en vient trop vite et puis.... Paf le chien.
+:wq
+
